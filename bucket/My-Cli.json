@@ -1,10 +1,9 @@
 {
-    "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
-    "version": "",
-    "description": "",
+    "version": "0.1.0",
+    "description": "A Cli for devlopers",
     "homepage": "",
-    "license": "",
-    "notes": "",
+    "license": "Mit License",
+    "notes": "currently in alpha phase",
     "architecture": {
         "64bit": {
             "url": "",
